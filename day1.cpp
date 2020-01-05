@@ -1,4 +1,4 @@
-/*PRINT DIAGONALS */
+/*PRINT DIAGONALS OF A MTRIX */
 #include<iostream>
 # define MAX 100
 using namespace std;
